@@ -60,4 +60,4 @@ password=your_password
 ---
 
 ## Author
-Your Name
+Suman Karki
